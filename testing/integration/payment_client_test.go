@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"awesomeProject5/testing/setup"
+	"test-1/testing/setup"
 )
 
 // PaymentClient is the real client under test. We define a minimal version

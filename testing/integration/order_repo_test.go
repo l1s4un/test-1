@@ -22,7 +22,7 @@ import (
 
 	_ "github.com/jackc/pgx/v5/stdlib"
 
-	"awesomeProject5/testing/setup"
+	"test-1/testing/setup"
 )
 
 const schema = `
